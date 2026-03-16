@@ -1,13 +1,16 @@
 # Hi 👋 I'm Uzair
 
-💻 Web Development Student  
-🌱 Currently Learning HTML, CSS and JavaScript  
-🚀 Building small web projects  
+💻 **Web Development Student**
 
-## Skills
-- HTML
-- CSS
-- JavaScript
+🌱 Currently learning **HTML, CSS, and JavaScript**
+🚀 Building small web projects to improve my skills
 
-## Connect With Me
-LinkedIn: https://linkedin.com
+## 🛠 Skills
+
+* HTML
+* CSS
+* JavaScript
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/uzair-ali-a2588b385/
